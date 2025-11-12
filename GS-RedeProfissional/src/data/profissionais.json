@@ -1,0 +1,3482 @@
+[
+  {
+    "id": 1,
+    "nome": "Patrícia Cardoso",
+    "foto": "https://randomuser.me/api/portraits/women/1.jpg",
+    "cargo": "Coordenador de Logística",
+    "resumo": "Profissional com experiência relevante em coordenador de logística.",
+    "localizacao": "Belo Horizonte/DF",
+    "area": "Logística",
+    "habilidadesTecnicas": [
+      "Gestão de Projetos",
+      "Docker",
+      "Atendimento",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Coordenador de Logística",
+        "inicio": "2016-01",
+        "fim": "2020-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a coordenador de logística."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Logística."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Recursos Humanos",
+      "Sustentabilidade"
+    ],
+    "recomendacoes": 19,
+    "mensagens": 36
+  },
+  {
+    "id": 2,
+    "nome": "Rafael Silva",
+    "foto": "https://randomuser.me/api/portraits/men/2.jpg",
+    "cargo": "Especialista em Marketing",
+    "resumo": "Profissional com experiência relevante em especialista em marketing.",
+    "localizacao": "Porto Alegre/RJ",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Photoshop",
+      "Gestão de Projetos",
+      "UX",
+      "Figma"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Especialista em Marketing",
+        "inicio": "2017-01",
+        "fim": "2021-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a especialista em marketing."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 2",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Marketing."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Recursos Humanos",
+      "Design"
+    ],
+    "recomendacoes": 14,
+    "mensagens": 21
+  },
+  {
+    "id": 3,
+    "nome": "Patrícia Lima",
+    "foto": "https://randomuser.me/api/portraits/women/3.jpg",
+    "cargo": "UX Researcher",
+    "resumo": "Profissional com experiência relevante em ux researcher.",
+    "localizacao": "Porto Alegre/BA",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Testes",
+      "Power BI",
+      "Node.js",
+      "Figma"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento crítico",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 3",
+        "cargo": "UX Researcher",
+        "inicio": "2018-01",
+        "fim": "2022-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a ux researcher."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 3",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Educação."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Jurídico",
+      "Educação"
+    ],
+    "recomendacoes": 6,
+    "mensagens": 48
+  },
+  {
+    "id": 4,
+    "nome": "Mateus Barros",
+    "foto": "https://randomuser.me/api/portraits/men/4.jpg",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência relevante em product manager.",
+    "localizacao": "Belo Horizonte/DF",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Photoshop",
+      "Excel",
+      "SQL",
+      "Python"
+    ],
+    "softSkills": [
+      "Organização",
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 4",
+        "cargo": "Product Manager",
+        "inicio": "2019-01",
+        "fim": "2019-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a product manager."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 4",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Marketing."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Marketing",
+      "Sustentabilidade"
+    ],
+    "recomendacoes": 13,
+    "mensagens": 38
+  },
+  {
+    "id": 5,
+    "nome": "Ana Cardoso",
+    "foto": "https://randomuser.me/api/portraits/women/5.jpg",
+    "cargo": "Professora",
+    "resumo": "Profissional com experiência relevante em professora.",
+    "localizacao": "Porto Alegre/BA",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Liderança",
+      "Gestão de Projetos",
+      "Python",
+      "Agile"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Criatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 5",
+        "cargo": "Professora",
+        "inicio": "2020-01",
+        "fim": null,
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a professora."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 5",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Saúde."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Jurídico"
+    ],
+    "recomendacoes": 0,
+    "mensagens": 33
+  },
+  {
+    "id": 6,
+    "nome": "Roberto Ribeiro",
+    "foto": "https://randomuser.me/api/portraits/men/6.jpg",
+    "cargo": "Especialista em Marketing",
+    "resumo": "Profissional com experiência relevante em especialista em marketing.",
+    "localizacao": "São Paulo/RS",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "Comunicação",
+      "React",
+      "Liderança",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 6",
+        "cargo": "Especialista em Marketing",
+        "inicio": "2015-01",
+        "fim": "2021-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a especialista em marketing."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2014
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 6",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Curso Avançado"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Finanças"
+    ],
+    "recomendacoes": 23,
+    "mensagens": 7
+  },
+  {
+    "id": 7,
+    "nome": "Gabriela Rodrigues",
+    "foto": "https://randomuser.me/api/portraits/women/7.jpg",
+    "cargo": "Coordenador de Logística",
+    "resumo": "Profissional com experiência relevante em coordenador de logística.",
+    "localizacao": "Brasília/RJ",
+    "area": "Sustentabilidade",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Liderança",
+      "Docker",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 7",
+        "cargo": "Coordenador de Logística",
+        "inicio": "2016-01",
+        "fim": "2022-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a coordenador de logística."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 7",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Sustentabilidade."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Jurídico"
+    ],
+    "recomendacoes": 9,
+    "mensagens": 25
+  },
+  {
+    "id": 8,
+    "nome": "Mateus Rodrigues",
+    "foto": "https://randomuser.me/api/portraits/men/8.jpg",
+    "cargo": "Consultor de Sustentabilidade",
+    "resumo": "Profissional com experiência relevante em consultor de sustentabilidade.",
+    "localizacao": "Curitiba/DF",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "React",
+      "Python",
+      "Atendimento",
+      "Agile"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 8",
+        "cargo": "Consultor de Sustentabilidade",
+        "inicio": "2017-01",
+        "fim": "2019-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a consultor de sustentabilidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 8",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Educação."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Recursos Humanos"
+    ],
+    "recomendacoes": 14,
+    "mensagens": 1
+  },
+  {
+    "id": 9,
+    "nome": "Mariana Lima",
+    "foto": "https://randomuser.me/api/portraits/women/9.jpg",
+    "cargo": "Especialista em Marketing",
+    "resumo": "Profissional com experiência relevante em especialista em marketing.",
+    "localizacao": "Brasília/PR",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": [
+      "Comunicação",
+      "React",
+      "Docker",
+      "Figma"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 9",
+        "cargo": "Especialista em Marketing",
+        "inicio": "2018-01",
+        "fim": "2020-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a especialista em marketing."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 9",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Recursos Humanos."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Jurídico",
+      "Educação"
+    ],
+    "recomendacoes": 14,
+    "mensagens": 4
+  },
+  {
+    "id": 10,
+    "nome": "Marcos Fernandes",
+    "foto": "https://randomuser.me/api/portraits/men/10.jpg",
+    "cargo": "Professora",
+    "resumo": "Profissional com experiência relevante em professora.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Excel",
+      "Gestão de Projetos",
+      "UX",
+      "Docker"
+    ],
+    "softSkills": [
+      "Organização",
+      "Resiliência",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 10",
+        "cargo": "Professora",
+        "inicio": "2019-01",
+        "fim": null,
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a professora."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 10",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Educação."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Finanças"
+    ],
+    "recomendacoes": 17,
+    "mensagens": 4
+  },
+  {
+    "id": 11,
+    "nome": "Marina Cardoso",
+    "foto": "https://randomuser.me/api/portraits/women/11.jpg",
+    "cargo": "Enfermeiro",
+    "resumo": "Profissional com experiência relevante em enfermeiro.",
+    "localizacao": "Curitiba/BA",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "UX",
+      "React",
+      "Power BI",
+      "Python"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 11",
+        "cargo": "Enfermeiro",
+        "inicio": "2020-01",
+        "fim": "2022-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a enfermeiro."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 11",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Design",
+      "Sustentabilidade"
+    ],
+    "recomendacoes": 2,
+    "mensagens": 32
+  },
+  {
+    "id": 12,
+    "nome": "Gabriel Barros",
+    "foto": "https://randomuser.me/api/portraits/men/12.jpg",
+    "cargo": "Especialista em Marketing",
+    "resumo": "Profissional com experiência relevante em especialista em marketing.",
+    "localizacao": "São Paulo/BA",
+    "area": "Sustentabilidade",
+    "habilidadesTecnicas": [
+      "Photoshop",
+      "Atendimento",
+      "Gestão de Projetos",
+      "Comunicação"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Organização",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 12",
+        "cargo": "Especialista em Marketing",
+        "inicio": "2015-01",
+        "fim": "2019-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a especialista em marketing."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2014
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 12",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Sustentabilidade."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Jurídico",
+      "Sustentabilidade"
+    ],
+    "recomendacoes": 8,
+    "mensagens": 33
+  },
+  {
+    "id": 13,
+    "nome": "Paula Costa",
+    "foto": "https://randomuser.me/api/portraits/women/13.jpg",
+    "cargo": "Professora",
+    "resumo": "Profissional com experiência relevante em professora.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "SQL",
+      "AWS",
+      "Atendimento",
+      "Liderança"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 13",
+        "cargo": "Professora",
+        "inicio": "2016-01",
+        "fim": "2020-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a professora."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 13",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Educação."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Design",
+      "Finanças"
+    ],
+    "recomendacoes": 10,
+    "mensagens": 15
+  },
+  {
+    "id": 14,
+    "nome": "Felipe Rodrigues",
+    "foto": "https://randomuser.me/api/portraits/men/14.jpg",
+    "cargo": "Consultor de Sustentabilidade",
+    "resumo": "Profissional com experiência relevante em consultor de sustentabilidade.",
+    "localizacao": "Porto Alegre/MG",
+    "area": "Sustentabilidade",
+    "habilidadesTecnicas": [
+      "Excel",
+      "Comunicação",
+      "Atendimento",
+      "UX"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 14",
+        "cargo": "Consultor de Sustentabilidade",
+        "inicio": "2017-01",
+        "fim": "2021-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a consultor de sustentabilidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 14",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Sustentabilidade."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Marketing"
+    ],
+    "recomendacoes": 5,
+    "mensagens": 46
+  },
+  {
+    "id": 15,
+    "nome": "Fernanda Oliveira",
+    "foto": "https://randomuser.me/api/portraits/women/15.jpg",
+    "cargo": "UX Researcher",
+    "resumo": "Profissional com experiência relevante em ux researcher.",
+    "localizacao": "Brasília/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Gestão de Projetos",
+      "Excel",
+      "Liderança",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 15",
+        "cargo": "UX Researcher",
+        "inicio": "2018-01",
+        "fim": null,
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a ux researcher."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 15",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Marketing."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Design",
+      "Educação"
+    ],
+    "recomendacoes": 14,
+    "mensagens": 34
+  },
+  {
+    "id": 16,
+    "nome": "Pedro Pereira",
+    "foto": "https://randomuser.me/api/portraits/men/16.jpg",
+    "cargo": "Coordenador de Logística",
+    "resumo": "Profissional com experiência relevante em coordenador de logística.",
+    "localizacao": "Belo Horizonte/DF",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Agile",
+      "SQL",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Organização",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 16",
+        "cargo": "Coordenador de Logística",
+        "inicio": "2019-01",
+        "fim": "2019-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a coordenador de logística."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 16",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Design."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Educação"
+    ],
+    "recomendacoes": 16,
+    "mensagens": 14
+  },
+  {
+    "id": 17,
+    "nome": "Bianca Barros",
+    "foto": "https://randomuser.me/api/portraits/women/17.jpg",
+    "cargo": "Designer Gráfico",
+    "resumo": "Profissional com experiência relevante em designer gráfico.",
+    "localizacao": "Belo Horizonte/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "UX",
+      "Comunicação",
+      "SQL",
+      "Agile"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 17",
+        "cargo": "Designer Gráfico",
+        "inicio": "2020-01",
+        "fim": "2020-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a designer gráfico."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 17",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Jurídico",
+      "Recursos Humanos"
+    ],
+    "recomendacoes": 9,
+    "mensagens": 46
+  },
+  {
+    "id": 18,
+    "nome": "Felipe Araújo",
+    "foto": "https://randomuser.me/api/portraits/men/18.jpg",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência relevante em product manager.",
+    "localizacao": "Porto Alegre/RJ",
+    "area": "Sustentabilidade",
+    "habilidadesTecnicas": [
+      "React",
+      "Docker",
+      "Power BI",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Organização",
+      "Pensamento crítico",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 18",
+        "cargo": "Product Manager",
+        "inicio": "2015-01",
+        "fim": "2021-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a product manager."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2014
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 18",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Sustentabilidade."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Logística",
+      "Tecnologia"
+    ],
+    "recomendacoes": 15,
+    "mensagens": 50
+  },
+  {
+    "id": 19,
+    "nome": "Sofia Barros",
+    "foto": "https://randomuser.me/api/portraits/women/19.jpg",
+    "cargo": "Técnico de Manutenção",
+    "resumo": "Profissional com experiência relevante em técnico de manutenção.",
+    "localizacao": "Brasília/MG",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Photoshop",
+      "Excel",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Criatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 19",
+        "cargo": "Técnico de Manutenção",
+        "inicio": "2016-01",
+        "fim": "2022-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a técnico de manutenção."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 19",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Design."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde",
+      "Logística"
+    ],
+    "recomendacoes": 15,
+    "mensagens": 40
+  },
+  {
+    "id": 20,
+    "nome": "Pedro Costa",
+    "foto": "https://randomuser.me/api/portraits/men/20.jpg",
+    "cargo": "Técnico de Manutenção",
+    "resumo": "Profissional com experiência relevante em técnico de manutenção.",
+    "localizacao": "Belo Horizonte/RJ",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "UX",
+      "SQL",
+      "Agile"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 20",
+        "cargo": "Técnico de Manutenção",
+        "inicio": "2017-01",
+        "fim": null,
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a técnico de manutenção."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 20",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Finanças."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Tecnologia"
+    ],
+    "recomendacoes": 16,
+    "mensagens": 49
+  },
+  {
+    "id": 21,
+    "nome": "Larissa Costa",
+    "foto": "https://randomuser.me/api/portraits/women/21.jpg",
+    "cargo": "Designer Gráfico",
+    "resumo": "Profissional com experiência relevante em designer gráfico.",
+    "localizacao": "Curitiba/MG",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Docker",
+      "AWS",
+      "Comunicação",
+      "Testes"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 21",
+        "cargo": "Designer Gráfico",
+        "inicio": "2018-01",
+        "fim": "2020-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a designer gráfico."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 21",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Saúde."
+      }
+    ],
+    "certificacoes": [
+      "Curso Avançado"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Educação"
+    ],
+    "recomendacoes": 23,
+    "mensagens": 11
+  },
+  {
+    "id": 22,
+    "nome": "Gustavo Almeida",
+    "foto": "https://randomuser.me/api/portraits/men/22.jpg",
+    "cargo": "Professora",
+    "resumo": "Profissional com experiência relevante em professora.",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Gestão de Projetos",
+      "React",
+      "Python",
+      "Atendimento"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento crítico",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 22",
+        "cargo": "Professora",
+        "inicio": "2019-01",
+        "fim": "2021-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a professora."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 22",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Design."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Finanças"
+    ],
+    "recomendacoes": 24,
+    "mensagens": 48
+  },
+  {
+    "id": 23,
+    "nome": "Gabriela Silva",
+    "foto": "https://randomuser.me/api/portraits/women/23.jpg",
+    "cargo": "Coordenador de Logística",
+    "resumo": "Profissional com experiência relevante em coordenador de logística.",
+    "localizacao": "Belo Horizonte/RS",
+    "area": "Jurídico",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Testes",
+      "Photoshop",
+      "Figma"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Organização",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 23",
+        "cargo": "Coordenador de Logística",
+        "inicio": "2020-01",
+        "fim": "2022-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a coordenador de logística."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 23",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Jurídico."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Design",
+      "Finanças"
+    ],
+    "recomendacoes": 7,
+    "mensagens": 44
+  },
+  {
+    "id": 24,
+    "nome": "Gabriel Lima",
+    "foto": "https://randomuser.me/api/portraits/men/24.jpg",
+    "cargo": "Especialista em Marketing",
+    "resumo": "Profissional com experiência relevante em especialista em marketing.",
+    "localizacao": "Belo Horizonte/BA",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Liderança",
+      "Gestão de Projetos",
+      "Python"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Criatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 24",
+        "cargo": "Especialista em Marketing",
+        "inicio": "2015-01",
+        "fim": "2019-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a especialista em marketing."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2014
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 24",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Saúde."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde",
+      "Tecnologia"
+    ],
+    "recomendacoes": 24,
+    "mensagens": 20
+  },
+  {
+    "id": 25,
+    "nome": "Marina Araújo",
+    "foto": "https://randomuser.me/api/portraits/women/25.jpg",
+    "cargo": "Técnico de Manutenção",
+    "resumo": "Profissional com experiência relevante em técnico de manutenção.",
+    "localizacao": "Brasília/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Agile",
+      "Liderança",
+      "Comunicação"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 25",
+        "cargo": "Técnico de Manutenção",
+        "inicio": "2016-01",
+        "fim": null,
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a técnico de manutenção."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 25",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Marketing."
+      }
+    ],
+    "certificacoes": [
+      "Curso Avançado"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Design",
+      "Finanças"
+    ],
+    "recomendacoes": 20,
+    "mensagens": 46
+  },
+  {
+    "id": 26,
+    "nome": "Marcos Cardoso",
+    "foto": "https://randomuser.me/api/portraits/men/26.jpg",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência relevante em product manager.",
+    "localizacao": "Porto Alegre/MG",
+    "area": "Sustentabilidade",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Power BI",
+      "UX",
+      "Excel"
+    ],
+    "softSkills": [
+      "Organização",
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 26",
+        "cargo": "Product Manager",
+        "inicio": "2017-01",
+        "fim": "2021-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a product manager."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 26",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Sustentabilidade."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Marketing",
+      "Logística"
+    ],
+    "recomendacoes": 10,
+    "mensagens": 31
+  },
+  {
+    "id": 27,
+    "nome": "Sofia Oliveira",
+    "foto": "https://randomuser.me/api/portraits/women/27.jpg",
+    "cargo": "Especialista em Marketing",
+    "resumo": "Profissional com experiência relevante em especialista em marketing.",
+    "localizacao": "Salvador/DF",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Liderança",
+      "LEED",
+      "Comunicação",
+      "UX"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Organização",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 27",
+        "cargo": "Especialista em Marketing",
+        "inicio": "2018-01",
+        "fim": "2022-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a especialista em marketing."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 27",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Educação."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Jurídico",
+      "Finanças"
+    ],
+    "recomendacoes": 11,
+    "mensagens": 27
+  },
+  {
+    "id": 28,
+    "nome": "Felipe Pereira",
+    "foto": "https://randomuser.me/api/portraits/men/28.jpg",
+    "cargo": "Data Scientist",
+    "resumo": "Profissional com experiência relevante em data scientist.",
+    "localizacao": "Brasília/RJ",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "SQL",
+      "UX",
+      "Figma",
+      "React"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 28",
+        "cargo": "Data Scientist",
+        "inicio": "2019-01",
+        "fim": "2019-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a data scientist."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 28",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Educação"
+    ],
+    "recomendacoes": 22,
+    "mensagens": 10
+  },
+  {
+    "id": 29,
+    "nome": "Juliana Souza",
+    "foto": "https://randomuser.me/api/portraits/women/29.jpg",
+    "cargo": "UX Researcher",
+    "resumo": "Profissional com experiência relevante em ux researcher.",
+    "localizacao": "Salvador/MG",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Excel",
+      "React",
+      "Node.js",
+      "Gestão de Projetos"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento crítico",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 29",
+        "cargo": "UX Researcher",
+        "inicio": "2020-01",
+        "fim": "2020-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a ux researcher."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 29",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Design."
+      }
+    ],
+    "certificacoes": [
+      "Curso Avançado"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Tecnologia"
+    ],
+    "recomendacoes": 12,
+    "mensagens": 9
+  },
+  {
+    "id": 30,
+    "nome": "Gabriel Martins",
+    "foto": "https://randomuser.me/api/portraits/men/30.jpg",
+    "cargo": "Especialista em Marketing",
+    "resumo": "Profissional com experiência relevante em especialista em marketing.",
+    "localizacao": "Porto Alegre/SP",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Node.js",
+      "Photoshop",
+      "UX"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 30",
+        "cargo": "Especialista em Marketing",
+        "inicio": "2015-01",
+        "fim": null,
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a especialista em marketing."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2014
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 30",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Recursos Humanos."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Logística",
+      "Sustentabilidade"
+    ],
+    "recomendacoes": 11,
+    "mensagens": 9
+  },
+  {
+    "id": 31,
+    "nome": "Gabriela Oliveira",
+    "foto": "https://randomuser.me/api/portraits/women/31.jpg",
+    "cargo": "Coordenador de Logística",
+    "resumo": "Profissional com experiência relevante em coordenador de logística.",
+    "localizacao": "Curitiba/PR",
+    "area": "Jurídico",
+    "habilidadesTecnicas": [
+      "Python",
+      "SQL",
+      "Photoshop",
+      "Docker"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 31",
+        "cargo": "Coordenador de Logística",
+        "inicio": "2016-01",
+        "fim": "2022-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a coordenador de logística."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 31",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Jurídico."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Design",
+      "Saúde"
+    ],
+    "recomendacoes": 4,
+    "mensagens": 5
+  },
+  {
+    "id": 32,
+    "nome": "Diego Barros",
+    "foto": "https://randomuser.me/api/portraits/men/32.jpg",
+    "cargo": "Analista Financeiro",
+    "resumo": "Profissional com experiência relevante em analista financeiro.",
+    "localizacao": "Salvador/PR",
+    "area": "Jurídico",
+    "habilidadesTecnicas": [
+      "Agile",
+      "AWS",
+      "Photoshop",
+      "Figma"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resiliência",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 32",
+        "cargo": "Analista Financeiro",
+        "inicio": "2017-01",
+        "fim": "2019-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a analista financeiro."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 32",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Jurídico."
+      }
+    ],
+    "certificacoes": [
+      "Curso Avançado"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Marketing",
+      "Jurídico"
+    ],
+    "recomendacoes": 4,
+    "mensagens": 36
+  },
+  {
+    "id": 33,
+    "nome": "Beatriz Pereira",
+    "foto": "https://randomuser.me/api/portraits/women/33.jpg",
+    "cargo": "Analista de Sistemas",
+    "resumo": "Profissional com experiência relevante em analista de sistemas.",
+    "localizacao": "Brasília/BA",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "Docker",
+      "UX",
+      "Python",
+      "Excel"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Criatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 33",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2018-01",
+        "fim": "2020-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a analista de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 33",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Finanças."
+      }
+    ],
+    "certificacoes": [
+      "Curso Avançado"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Educação"
+    ],
+    "recomendacoes": 8,
+    "mensagens": 15
+  },
+  {
+    "id": 34,
+    "nome": "Thiago Cardoso",
+    "foto": "https://randomuser.me/api/portraits/men/34.jpg",
+    "cargo": "UX Researcher",
+    "resumo": "Profissional com experiência relevante em ux researcher.",
+    "localizacao": "São Paulo/PR",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "LEED",
+      "SQL",
+      "Figma",
+      "React"
+    ],
+    "softSkills": [
+      "Organização",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 34",
+        "cargo": "UX Researcher",
+        "inicio": "2019-01",
+        "fim": "2021-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a ux researcher."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 34",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Finanças."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde",
+      "Educação"
+    ],
+    "recomendacoes": 12,
+    "mensagens": 49
+  },
+  {
+    "id": 35,
+    "nome": "Beatriz Almeida",
+    "foto": "https://randomuser.me/api/portraits/women/35.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência relevante em engenheiro de software.",
+    "localizacao": "Rio de Janeiro/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Agile",
+      "LEED",
+      "Node.js",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 35",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2020-01",
+        "fim": null,
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a engenheiro de software."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 35",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Educação."
+      }
+    ],
+    "certificacoes": [
+      "Curso Avançado"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Marketing",
+      "Recursos Humanos"
+    ],
+    "recomendacoes": 5,
+    "mensagens": 43
+  },
+  {
+    "id": 36,
+    "nome": "Gabriel Araújo",
+    "foto": "https://randomuser.me/api/portraits/men/36.jpg",
+    "cargo": "Especialista em Marketing",
+    "resumo": "Profissional com experiência relevante em especialista em marketing.",
+    "localizacao": "Salvador/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Node.js",
+      "LEED",
+      "Excel"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Criatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 36",
+        "cargo": "Especialista em Marketing",
+        "inicio": "2015-01",
+        "fim": "2019-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a especialista em marketing."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2014
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 36",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Design."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde",
+      "Design"
+    ],
+    "recomendacoes": 7,
+    "mensagens": 24
+  },
+  {
+    "id": 37,
+    "nome": "Fernanda Lima",
+    "foto": "https://randomuser.me/api/portraits/women/37.jpg",
+    "cargo": "Data Scientist",
+    "resumo": "Profissional com experiência relevante em data scientist.",
+    "localizacao": "Rio de Janeiro/RS",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Gestão de Projetos",
+      "UX",
+      "React",
+      "Excel"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 37",
+        "cargo": "Data Scientist",
+        "inicio": "2016-01",
+        "fim": "2020-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a data scientist."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 37",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Educação."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Recursos Humanos",
+      "Sustentabilidade"
+    ],
+    "recomendacoes": 19,
+    "mensagens": 6
+  },
+  {
+    "id": 38,
+    "nome": "Bruno Almeida",
+    "foto": "https://randomuser.me/api/portraits/men/38.jpg",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência relevante em product manager.",
+    "localizacao": "Salvador/PR",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": [
+      "Photoshop",
+      "Excel",
+      "Gestão de Projetos",
+      "LEED"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Criatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 38",
+        "cargo": "Product Manager",
+        "inicio": "2017-01",
+        "fim": "2021-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a product manager."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 38",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Recursos Humanos."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Recursos Humanos",
+      "Finanças"
+    ],
+    "recomendacoes": 24,
+    "mensagens": 1
+  },
+  {
+    "id": 39,
+    "nome": "Paula Oliveira",
+    "foto": "https://randomuser.me/api/portraits/women/39.jpg",
+    "cargo": "Enfermeiro",
+    "resumo": "Profissional com experiência relevante em enfermeiro.",
+    "localizacao": "Curitiba/PR",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": [
+      "AWS",
+      "UX",
+      "Photoshop",
+      "Gestão de Projetos"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Organização",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 39",
+        "cargo": "Enfermeiro",
+        "inicio": "2018-01",
+        "fim": "2022-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a enfermeiro."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 39",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Recursos Humanos."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Jurídico"
+    ],
+    "recomendacoes": 10,
+    "mensagens": 49
+  },
+  {
+    "id": 40,
+    "nome": "André Fernandes",
+    "foto": "https://randomuser.me/api/portraits/men/40.jpg",
+    "cargo": "Coordenador de Logística",
+    "resumo": "Profissional com experiência relevante em coordenador de logística.",
+    "localizacao": "Salvador/MG",
+    "area": "Logística",
+    "habilidadesTecnicas": [
+      "Agile",
+      "UX",
+      "Python",
+      "Gestão de Projetos"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 40",
+        "cargo": "Coordenador de Logística",
+        "inicio": "2019-01",
+        "fim": null,
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a coordenador de logística."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 40",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Logística."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Saúde"
+    ],
+    "recomendacoes": 12,
+    "mensagens": 35
+  },
+  {
+    "id": 41,
+    "nome": "Marina Oliveira",
+    "foto": "https://randomuser.me/api/portraits/women/41.jpg",
+    "cargo": "UX Researcher",
+    "resumo": "Profissional com experiência relevante em ux researcher.",
+    "localizacao": "Curitiba/BA",
+    "area": "Jurídico",
+    "habilidadesTecnicas": [
+      "LEED",
+      "Gestão de Projetos",
+      "Excel",
+      "SQL"
+    ],
+    "softSkills": [
+      "Organização",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 41",
+        "cargo": "UX Researcher",
+        "inicio": "2020-01",
+        "fim": "2020-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a ux researcher."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 41",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Jurídico."
+      }
+    ],
+    "certificacoes": [
+      "Curso Avançado"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Finanças"
+    ],
+    "recomendacoes": 19,
+    "mensagens": 40
+  },
+  {
+    "id": 42,
+    "nome": "Gabriel Fernandes",
+    "foto": "https://randomuser.me/api/portraits/men/42.jpg",
+    "cargo": "Analista de RH",
+    "resumo": "Profissional com experiência relevante em analista de rh.",
+    "localizacao": "Curitiba/RJ",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Power BI",
+      "Node.js",
+      "LEED"
+    ],
+    "softSkills": [
+      "Organização",
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 42",
+        "cargo": "Analista de RH",
+        "inicio": "2015-01",
+        "fim": "2021-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a analista de rh."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2014
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 42",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Recursos Humanos."
+      }
+    ],
+    "certificacoes": [
+      "Curso Avançado"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Tecnologia"
+    ],
+    "recomendacoes": 4,
+    "mensagens": 47
+  },
+  {
+    "id": 43,
+    "nome": "Fernanda Gomes",
+    "foto": "https://randomuser.me/api/portraits/women/43.jpg",
+    "cargo": "Analista Financeiro",
+    "resumo": "Profissional com experiência relevante em analista financeiro.",
+    "localizacao": "Belo Horizonte/DF",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "Liderança",
+      "Testes",
+      "Node.js",
+      "Photoshop"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 43",
+        "cargo": "Analista Financeiro",
+        "inicio": "2016-01",
+        "fim": "2022-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a analista financeiro."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 43",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Logística"
+    ],
+    "recomendacoes": 17,
+    "mensagens": 19
+  },
+  {
+    "id": 44,
+    "nome": "Marcelo Pereira",
+    "foto": "https://randomuser.me/api/portraits/men/44.jpg",
+    "cargo": "UX Researcher",
+    "resumo": "Profissional com experiência relevante em ux researcher.",
+    "localizacao": "Salvador/PR",
+    "area": "Jurídico",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Figma",
+      "Liderança",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Pensamento crítico",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 44",
+        "cargo": "UX Researcher",
+        "inicio": "2017-01",
+        "fim": "2019-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a ux researcher."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 44",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Jurídico."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Marketing",
+      "Saúde"
+    ],
+    "recomendacoes": 23,
+    "mensagens": 38
+  },
+  {
+    "id": 45,
+    "nome": "Gabriela Barros",
+    "foto": "https://randomuser.me/api/portraits/women/45.jpg",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência relevante em product manager.",
+    "localizacao": "Salvador/PR",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Testes",
+      "LEED",
+      "Docker"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 45",
+        "cargo": "Product Manager",
+        "inicio": "2018-01",
+        "fim": null,
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a product manager."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 45",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Marketing."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Jurídico",
+      "Finanças"
+    ],
+    "recomendacoes": 2,
+    "mensagens": 7
+  },
+  {
+    "id": 46,
+    "nome": "Mateus Barros",
+    "foto": "https://randomuser.me/api/portraits/men/46.jpg",
+    "cargo": "Designer Gráfico",
+    "resumo": "Profissional com experiência relevante em designer gráfico.",
+    "localizacao": "Salvador/BA",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "SQL",
+      "AWS",
+      "Photoshop",
+      "Liderança"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 46",
+        "cargo": "Designer Gráfico",
+        "inicio": "2019-01",
+        "fim": "2021-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a designer gráfico."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 46",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Finanças."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Recursos Humanos"
+    ],
+    "recomendacoes": 8,
+    "mensagens": 30
+  },
+  {
+    "id": 47,
+    "nome": "Mariana Ribeiro",
+    "foto": "https://randomuser.me/api/portraits/women/47.jpg",
+    "cargo": "Professora",
+    "resumo": "Profissional com experiência relevante em professora.",
+    "localizacao": "Salvador/BA",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Agile",
+      "Testes",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento crítico",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 47",
+        "cargo": "Professora",
+        "inicio": "2020-01",
+        "fim": "2022-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a professora."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 47",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Recursos Humanos."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Design",
+      "Logística"
+    ],
+    "recomendacoes": 11,
+    "mensagens": 47
+  },
+  {
+    "id": 48,
+    "nome": "Marcelo Fernandes",
+    "foto": "https://randomuser.me/api/portraits/men/48.jpg",
+    "cargo": "Coordenador de Logística",
+    "resumo": "Profissional com experiência relevante em coordenador de logística.",
+    "localizacao": "Curitiba/RJ",
+    "area": "Sustentabilidade",
+    "habilidadesTecnicas": [
+      "Gestão de Projetos",
+      "UX",
+      "Atendimento",
+      "Testes"
+    ],
+    "softSkills": [
+      "Organização",
+      "Pensamento crítico",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 48",
+        "cargo": "Coordenador de Logística",
+        "inicio": "2015-01",
+        "fim": "2019-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a coordenador de logística."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2014
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 48",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Sustentabilidade."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Marketing",
+      "Jurídico"
+    ],
+    "recomendacoes": 16,
+    "mensagens": 30
+  },
+  {
+    "id": 49,
+    "nome": "Bianca Costa",
+    "foto": "https://randomuser.me/api/portraits/women/49.jpg",
+    "cargo": "Técnico de Manutenção",
+    "resumo": "Profissional com experiência relevante em técnico de manutenção.",
+    "localizacao": "Porto Alegre/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Liderança",
+      "Excel",
+      "Gestão de Projetos",
+      "AWS"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 49",
+        "cargo": "Técnico de Manutenção",
+        "inicio": "2016-01",
+        "fim": "2020-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a técnico de manutenção."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 49",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Design."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde",
+      "Recursos Humanos"
+    ],
+    "recomendacoes": 9,
+    "mensagens": 46
+  },
+  {
+    "id": 50,
+    "nome": "Gabriel Souza",
+    "foto": "https://randomuser.me/api/portraits/men/50.jpg",
+    "cargo": "Técnico de Manutenção",
+    "resumo": "Profissional com experiência relevante em técnico de manutenção.",
+    "localizacao": "Salvador/DF",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": [
+      "Comunicação",
+      "LEED",
+      "React",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 50",
+        "cargo": "Técnico de Manutenção",
+        "inicio": "2017-01",
+        "fim": null,
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a técnico de manutenção."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 50",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Recursos Humanos."
+      }
+    ],
+    "certificacoes": [
+      "Curso Avançado"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Finanças"
+    ],
+    "recomendacoes": 12,
+    "mensagens": 4
+  },
+  {
+    "id": 51,
+    "nome": "Paula Barros",
+    "foto": "https://randomuser.me/api/portraits/women/51.jpg",
+    "cargo": "Enfermeiro",
+    "resumo": "Profissional com experiência relevante em enfermeiro.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Sustentabilidade",
+    "habilidadesTecnicas": [
+      "Liderança",
+      "Agile",
+      "LEED",
+      "Python"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 51",
+        "cargo": "Enfermeiro",
+        "inicio": "2018-01",
+        "fim": "2022-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a enfermeiro."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 51",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Sustentabilidade."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Logística",
+      "Jurídico"
+    ],
+    "recomendacoes": 3,
+    "mensagens": 2
+  },
+  {
+    "id": 52,
+    "nome": "Lucas Cardoso",
+    "foto": "https://randomuser.me/api/portraits/men/52.jpg",
+    "cargo": "Enfermeiro",
+    "resumo": "Profissional com experiência relevante em enfermeiro.",
+    "localizacao": "Rio de Janeiro/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Docker",
+      "Power BI",
+      "Figma"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 52",
+        "cargo": "Enfermeiro",
+        "inicio": "2019-01",
+        "fim": "2019-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a enfermeiro."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 52",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde",
+      "Educação"
+    ],
+    "recomendacoes": 19,
+    "mensagens": 21
+  },
+  {
+    "id": 53,
+    "nome": "Beatriz Ribeiro",
+    "foto": "https://randomuser.me/api/portraits/women/53.jpg",
+    "cargo": "Analista de Sistemas",
+    "resumo": "Profissional com experiência relevante em analista de sistemas.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Photoshop",
+      "Docker",
+      "AWS"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 53",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2020-01",
+        "fim": "2020-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a analista de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 53",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Finanças."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Logística",
+      "Recursos Humanos"
+    ],
+    "recomendacoes": 23,
+    "mensagens": 0
+  },
+  {
+    "id": 54,
+    "nome": "Marcos Gomes",
+    "foto": "https://randomuser.me/api/portraits/men/54.jpg",
+    "cargo": "Designer Gráfico",
+    "resumo": "Profissional com experiência relevante em designer gráfico.",
+    "localizacao": "Salvador/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Liderança",
+      "Agile",
+      "Docker",
+      "Python"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 54",
+        "cargo": "Designer Gráfico",
+        "inicio": "2015-01",
+        "fim": "2021-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a designer gráfico."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2014
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 54",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Design."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Jurídico"
+    ],
+    "recomendacoes": 6,
+    "mensagens": 13
+  },
+  {
+    "id": 55,
+    "nome": "Bianca Barros",
+    "foto": "https://randomuser.me/api/portraits/women/55.jpg",
+    "cargo": "UX Researcher",
+    "resumo": "Profissional com experiência relevante em ux researcher.",
+    "localizacao": "Rio de Janeiro/MG",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Agile",
+      "LEED",
+      "Node.js",
+      "Liderança"
+    ],
+    "softSkills": [
+      "Organização",
+      "Pensamento crítico",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 55",
+        "cargo": "UX Researcher",
+        "inicio": "2016-01",
+        "fim": null,
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a ux researcher."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 55",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Design."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Recursos Humanos",
+      "Logística"
+    ],
+    "recomendacoes": 7,
+    "mensagens": 33
+  },
+  {
+    "id": 56,
+    "nome": "Marcelo Gomes",
+    "foto": "https://randomuser.me/api/portraits/men/56.jpg",
+    "cargo": "Consultor de Sustentabilidade",
+    "resumo": "Profissional com experiência relevante em consultor de sustentabilidade.",
+    "localizacao": "Rio de Janeiro/MG",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Excel",
+      "Power BI",
+      "Liderança",
+      "Figma"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Organização",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 56",
+        "cargo": "Consultor de Sustentabilidade",
+        "inicio": "2017-01",
+        "fim": "2019-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a consultor de sustentabilidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 56",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Design."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Jurídico",
+      "Finanças"
+    ],
+    "recomendacoes": 15,
+    "mensagens": 23
+  },
+  {
+    "id": 57,
+    "nome": "Sofia Pereira",
+    "foto": "https://randomuser.me/api/portraits/women/57.jpg",
+    "cargo": "Especialista em Marketing",
+    "resumo": "Profissional com experiência relevante em especialista em marketing.",
+    "localizacao": "Rio de Janeiro/RS",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": [
+      "Agile",
+      "Comunicação",
+      "Atendimento",
+      "SQL"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 57",
+        "cargo": "Especialista em Marketing",
+        "inicio": "2018-01",
+        "fim": "2020-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a especialista em marketing."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 57",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Recursos Humanos."
+      }
+    ],
+    "certificacoes": [
+      "Curso Avançado"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Logística"
+    ],
+    "recomendacoes": 14,
+    "mensagens": 15
+  },
+  {
+    "id": 58,
+    "nome": "André Barros",
+    "foto": "https://randomuser.me/api/portraits/men/58.jpg",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência relevante em product manager.",
+    "localizacao": "Salvador/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "React",
+      "Excel",
+      "Comunicação",
+      "Liderança"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 58",
+        "cargo": "Product Manager",
+        "inicio": "2019-01",
+        "fim": "2021-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a product manager."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 58",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Marketing."
+      }
+    ],
+    "certificacoes": [
+      "Curso Avançado"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Recursos Humanos",
+      "Finanças"
+    ],
+    "recomendacoes": 11,
+    "mensagens": 21
+  },
+  {
+    "id": 59,
+    "nome": "Fernanda Lima",
+    "foto": "https://randomuser.me/api/portraits/women/59.jpg",
+    "cargo": "Data Scientist",
+    "resumo": "Profissional com experiência relevante em data scientist.",
+    "localizacao": "Salvador/DF",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Excel",
+      "Atendimento",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 59",
+        "cargo": "Data Scientist",
+        "inicio": "2020-01",
+        "fim": "2022-06",
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a data scientist."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 59",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Tecnologia."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Agile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Design",
+      "Marketing"
+    ],
+    "recomendacoes": 10,
+    "mensagens": 5
+  },
+  {
+    "id": 60,
+    "nome": "Rafael Rodrigues",
+    "foto": "https://randomuser.me/api/portraits/men/60.jpg",
+    "cargo": "Especialista em Marketing",
+    "resumo": "Profissional com experiência relevante em especialista em marketing.",
+    "localizacao": "Brasília/PR",
+    "area": "Sustentabilidade",
+    "habilidadesTecnicas": [
+      "Excel",
+      "Figma",
+      "UX",
+      "Liderança"
+    ],
+    "softSkills": [
+      "Organização",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 60",
+        "cargo": "Especialista em Marketing",
+        "inicio": "2015-01",
+        "fim": null,
+        "descricao": "Atuação destacada em projetos e entregas relacionadas a especialista em marketing."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior",
+        "instituicao": "Universidade Global",
+        "ano": 2014
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 60",
+        "link": "https://example.com",
+        "descricao": "Projeto demonstrativo na área de Sustentabilidade."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Logística",
+      "Recursos Humanos"
+    ],
+    "recomendacoes": 4,
+    "mensagens": 26
+  }
+]
