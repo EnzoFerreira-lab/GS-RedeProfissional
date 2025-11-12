@@ -1,16 +1,80 @@
-# React + Vite
+🧾 README.md
+# 🌐 Rede Profissional — GS Front-End (2º Semestre)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Rede Profissional** é uma plataforma web desenvolvida como parte da **Global Solution de Front-End**, com o objetivo de **conectar profissionais de diversas áreas**, exibindo seus perfis, formações, experiências e habilidades.  
 
-Currently, two official plugins are available:
+O projeto oferece uma interface moderna, responsiva e com modo claro/escuro, permitindo que os usuários naveguem, filtrem por área de atuação e visualizem detalhes de cada perfil.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 **Resumo do Projeto**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+A aplicação simula uma **rede profissional interativa**, onde é possível:
 
-## Expanding the ESLint configuration
+- 🔍 Buscar profissionais por nome, cargo ou habilidade.  
+- 🎯 Filtrar por **área de atuação** (ex: Tecnologia, Saúde, Sustentabilidade etc.).  
+- 🧑‍💼 Visualizar o **perfil completo** de cada profissional em um modal elegante.  
+- 💬 Interagir com contadores de recomendações e mensagens (simulados).  
+- 🌗 Alternar entre **modo claro e escuro**.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+O projeto foi desenvolvido utilizando **React + Vite + Tailwind CSS**, garantindo alta performance e design responsivo.
+
+---
+
+## 🛠️ **Instalação e Execução Local**
+
+Siga os passos abaixo para rodar o projeto na sua máquina:
+
+### 1️⃣ Clonar o repositório
+```bash
+git clone https://github.com/EnzoFerreira-lab/GS-RedeProfissional.git
+
+2️⃣ Acessar a pasta do projeto
+cd GS-RedeProfissional
+
+3️⃣ Instalar as dependências
+npm install
+
+4️⃣ Executar o projeto em modo de desenvolvimento
+npm run dev
+
+5️⃣ Gerar a build de produção (opcional)
+npm run build
+
+
+Após rodar o comando npm run dev, o terminal exibirá o endereço local, geralmente:
+
+http://localhost:5173/
+
+
+Abra esse link no navegador para visualizar o projeto.
+
+🌍 Links Importantes
+
+🔗 Deploy (GitHub Pages):
+https://enzoferreira-lab.github.io/GS-RedeProfissional/
+
+📦 Repositório GitHub:
+https://github.com/EnzoFerreira-lab/GS-RedeProfissional.git
+
+🧩 Tecnologias Utilizadas
+
+⚛️ React 18 – Biblioteca principal para construção da interface
+
+⚙️ Vite – Ferramenta de build e servidor de desenvolvimento
+
+🎨 Tailwind CSS – Framework CSS utilitário para estilização
+
+🎬 Framer Motion – Animações e transições elegantes
+
+💾 LocalStorage API – Armazenamento local de dados simulados
+
+👥 Integrantes do Grupo
+Nome	RM
+Enzo de Faria Ferreira	562448
+Guilherme Eduardo de Lima	566045
+Guilherme de Paula Kuskowski	562471
+🏁 Conclusão
+
+O projeto Rede Profissional demonstra a aplicação prática dos conceitos de desenvolvimento front-end moderno, com foco em usabilidade, design responsivo e interatividade.
+Desenvolvido para a FIAP, como parte da Global Solution do 2º semestre, o sistema reflete o uso real de tecnologias e práticas utilizadas no mercado.
