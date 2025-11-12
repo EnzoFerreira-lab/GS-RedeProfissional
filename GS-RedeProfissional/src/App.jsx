@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { AnimatePresence } from "framer-motion";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/NavBar";
 import SearchBar from "./components/SearchBar";
 import ProfileCard from "./components/ProfileCard";
 import ProfileModal from "./components/ProfileModal";
